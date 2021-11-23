@@ -1,4 +1,15 @@
-# 08-compo-api
+# Description 
+```
+Reactive vs Ref
+life cicles
+Counter
+Users using api 
+Search pokemon using route
+Creator task (3 nivels)
+Slots 
+```
+
+# compo-api
 
 ## Project setup
 ```
